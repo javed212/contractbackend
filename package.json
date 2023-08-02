@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "web service to call chatgpt api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "chatgpt",
+    "integration"
+  ],
+  "author": "javed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "openai": "^3.3.0"
+  }
+}
